@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://goodtimese.github.io/sitemap.xml
